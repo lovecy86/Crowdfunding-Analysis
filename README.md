@@ -1,12 +1,8 @@
 # **Crowdfunding Data Analysis**
+
+## **Overview**
 Crowdfunding is one of the fastest emerging online industries. It is a platform where budding entrepreneurs present their innovative ideas and raise funds for their projects. There are many factors that affect the success rate of a project in a crowdfunding campaign, such as the type of project, country of origin, the feasibility of the project, marketing and so on. Therefore, it is indeed essential to perform in-depth research on the success rate of a project, before going online.
 A dataset with 1000 sample projects was given to unveil any hidden trends. The given dataset contained the following columns:Id, name, blurb, goal, pledged, outcome, backers count, country, currency, launched at, deadline, staff pick, spotlight, category and subcategory
-
-# **Conclusions**
-Based on the given details, the following conclusions were drawn about crowdfunding campaigns: -
-* In addition to many other factors, category plays a vital role in deciding the success rate of a campaign. From the “Monthly Analysis of Outcome” graph, it can be interpreted that Technology has always seen a high success rate, followed by music and journalism. Therefore, it is advisable for entrepreneurs to come up with innovative ideas in these domains.
-* Many of the crowdfunding campaigns are held in US (763 out of 1000), with theatre (plays) being the most successful category (149 successful outcome) for funding.
-* The success or failure rate of a crowdfunding project is not determined by the number of backers or by the duration of funding alone.
 
 # **Limitations of the dataset:**
 Though the dataset provided sufficient information, there are details which if had been provided, a better analysis would have been performed.
@@ -25,5 +21,11 @@ Though the dataset provided sufficient information, there are details which if h
 
 * 2. Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 	From data, it is understood that there is variability with both successful as well as unsuccessful campaigns. However, it is difficult to determine which has more, since there are campaigns that had less backers, but it succeeded. Similarly, there were campaigns that had more backers, but it failed. Success of a project depends on many factors such as type of project, feasibility of the project, project exposure, campaign length to name a few. The given data is insufficient to consider all these aspects.   
+
+# **Conclusions**
+Based on the given details, the following conclusions were drawn about crowdfunding campaigns: -
+* In addition to many other factors, category plays a vital role in deciding the success rate of a campaign. From the “Monthly Analysis of Outcome” graph, it can be interpreted that Technology has always seen a high success rate, followed by music and journalism. Therefore, it is advisable for entrepreneurs to come up with innovative ideas in these domains.
+* Many of the crowdfunding campaigns are held in US (763 out of 1000), with theatre (plays) being the most successful category (149 successful outcome) for funding.
+* The success or failure rate of a crowdfunding project is not determined by the number of backers or by the duration of funding alone.
 
 
