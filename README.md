@@ -20,10 +20,10 @@ Though the dataset provided sufficient information, there are details which if h
 * A table and a graph could also have been created with the campaign length and outcome, to analyze whether the campaign length affects the success rate of a project.
 
 # **Statistical Analysis**
-1. Use your data to determine whether the mean or the median better summarizes the data.
+* 1. Use your data to determine whether the mean or the median better summarizes the data.
 	I feel the median better summarizes the data than mean, because the data seems to be right skewed as for the right skewed distribution, the mean (851.15, 585.62 for successful campaign and unsuccessful campaign respectively)is greater than median(201,114.50 for successful and unsuccessful campaigns respectively). 
 
-2. Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+* 2. Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 	From data, it is understood that there is variability with both successful as well as unsuccessful campaigns. However, it is difficult to determine which has more, since there are campaigns that had less backers, but it succeeded. Similarly, there were campaigns that had more backers, but it failed. Success of a project depends on many factors such as type of project, feasibility of the project, project exposure, campaign length to name a few. The given data is insufficient to consider all these aspects.   
 
 
