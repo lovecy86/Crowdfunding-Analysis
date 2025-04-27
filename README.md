@@ -2,7 +2,10 @@
 
 ## **Overview**
 Crowdfunding is one of the fastest emerging online industries. It is a platform where budding entrepreneurs present their innovative ideas and raise funds for their projects. There are many factors that affect the success rate of a project in a crowdfunding campaign, such as the type of project, country of origin, the feasibility of the project, marketing and so on. Therefore, it is indeed essential to perform in-depth research on the success rate of a project, before going online.
-A dataset with 1000 sample projects was used to unveil any hidden trends. The dataset contain the following columns:Id, name, blurb, goal, pledged, outcome, backers count, country, currency, launched at, deadline, staff pick, spotlight, category and subcategory
+A dataset with 1000 sample projects was used to unveil any hidden trends. The dataset contain the following columns:Id, name, blurb, goal, pledged, outcome, backers count, country, currency, launched at, deadline, staff pick, spotlight, category and subcategory.
+
+## **Technology Used**
+Excel
 
 # **Limitations of the dataset:**
 Though the dataset provided sufficient information, there are details which if had been provided, a better analysis would have been performed.
